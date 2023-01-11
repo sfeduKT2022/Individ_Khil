@@ -1,0 +1,7 @@
+SMS, 1, 0.15, #
+MMS, 2, 10, min
+International rate, 3, 50, min
+Unlimited message, 4, 75, month
+All in one, 5, 15, day
+Roaming, 6, 0.7,min
+International rate, 7, 52, min

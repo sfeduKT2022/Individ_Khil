@@ -1,0 +1,8 @@
+Ivanov Ivan Ivanovich, 9773672365, 12.10.2012, 12.10.2014,0,0
+Petrov Petr Petrovich, 9272332666, 22.04.2022, 12.10.2022,400,500
+Maksimov Maksim Maksimovich, 9743233999, 05.05.2022, 23.06.2023,330,0
+Aksimov Ivan Sergeevich, 9657575677, 10.06.2022, 21.11.2024,10,100
+Shishenko Viktoria Dmitrievna, 9345453455, 12.10.2018, 04.08.2022,150,233
+Koroleva Aleftina Alekseevna, 9345555344, 23.05.2022, 09.07.2023,0,0
+Khil Ivan Vladimirovich, 9786877767, 09.07.2020, 21.12.2029,23,10
+Mazilova Nona Noyneimovna, 9897686788, 11.10.2018, 01.06.2022,1110,110
